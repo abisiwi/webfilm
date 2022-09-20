@@ -1,0 +1,39 @@
+.myBg {
+    height: 100vh;
+    background: url(../assets/images/bg/view.png);
+    background-size: cover;
+}
+
+/* .navbar {
+    background: #fff;
+    color: #fff;
+} */
+
+.intro {
+    height: 400px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    color: #18a8f9;
+    text-align: center;
+}
+
+.title1 {
+    font-size: 3rem;
+    font-weight: 700;
+    text-shadow: 3px 2px #18a8f9;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    letter-spacing: 10px;
+}
+
+.title2 {
+    font-size: 2rem;
+    font-weight: 700;
+    text-shadow: 3px 2px #18a8f9;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    letter-spacing: 3px;
+}
